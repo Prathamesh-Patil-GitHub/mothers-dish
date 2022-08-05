@@ -10,9 +10,6 @@ We have used MySQL in this project to manage our data in a tabular format.
 <img src ="https://github.com/Prathamesh-Patil-GitHub/mothers-dish/blob/main/output-images/mothers-dish-ouput-1.png"/>
 </div>
 <div align="center" >
-<img src ="https://github.com/Prathamesh-Patil-GitHub/mothers-dish/blob/main/output-images/mothers-dish-ouput-1.png"/>
-</div>
-<div align="center" >
 <img src ="https://github.com/Prathamesh-Patil-GitHub/mothers-dish/blob/main/output-images/mothers-dish-ouput-2.png"/>
 </div>
 <div align="center" >
